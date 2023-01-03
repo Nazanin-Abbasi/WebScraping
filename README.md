@@ -5,18 +5,15 @@
 
 ## Description
 
-This project has been done in Python for one of our courses at Alzahra University. The goal was to learn about crawling webpages and using Django framework in Python. 
-In this repository there are two folders. Web Scraping and Django Web Scraping:
+This project has been done in Python for one of our courses at Alzahra University. The goal was to learn about crawling webpages and using the Django framework in Python. In this repository, there are two folders. Web Scraping and Django Web Scraping:
 
 ### Web Scraping
 
-We first inspected Digikala website and extracted required tags to extract information from the webpage. 
-Then we used the tags to store information in a Dataframe and finally created a CSV file, which is available in the repository.
+We first inspected the Digikala website and extracted the required tags to extract information from the webpage. Then we used the tags to store information in a Dataframe and finally created a CSV file, which is available in the repository.
 
 ### Django
 
-In order to display the information on a webpage we used Django framework. 
-We read the data from CSV and created a Dataframe, then we created an html object from our data and returned it as response.
+In order to display the information on a webpage we used the Django framework. We read the data from CSV and created a Dataframe, then we created an Html object from our data and returned it as a response.
 
 Here is the output on a webpage:
 
